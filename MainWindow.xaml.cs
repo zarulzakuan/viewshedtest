@@ -138,7 +138,7 @@ namespace ViewshedTest
             // Add the layer to the map
             myMap.OperationalLayers.Clear();
             myMap.OperationalLayers.Add(myRasterLayer);
-
+            
             try
             {
 
